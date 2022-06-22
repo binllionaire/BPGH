@@ -15,4 +15,5 @@
 ### 학교 소개 (탭바)
 <img width="229" alt="스크린샷 2022-06-22 오후 5 24 21" src="https://user-images.githubusercontent.com/46593078/174981153-79284cfe-c629-4f0a-a4cc-425079b34d96.png">
 
-
+### 반별 시간표
+<img width="229" alt="스크린샷 2022-06-22 오후 5 30 02" src="https://user-images.githubusercontent.com/46593078/174982372-a998d325-6c97-4d0f-8480-b48a82c27f38.png">
