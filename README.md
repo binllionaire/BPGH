@@ -1,7 +1,7 @@
 # BPGH
 북평여자고등학교 앱
 
-##고등학생 때 만들었던 북평여고 앱입니다
+## 고등학생 때 만들었던 북평여고 앱입니다
 
 <img width="230" alt="스크린샷 2022-06-22 오후 5 22 44" src="https://user-images.githubusercontent.com/46593078/174980774-3e0b54d6-41ad-4b31-ad6c-c01cbb6d4b62.png">
 <img width="231" alt="스크린샷 2022-06-22 오후 5 23 06" src="https://user-images.githubusercontent.com/46593078/174980853-b43b66b3-dfce-41ba-8e6f-c52940483473.png">
