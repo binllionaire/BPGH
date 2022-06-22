@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bpgh">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:usesCleartextTraffic="true"
+        android:versionCode="3"
+        android:versionName="1.2"
+        android:icon="@mipmap/icon_round"
+        android:label="북평여자고등학교"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Club"></activity>
+        <activity android:name=".introduce" />
+        <activity
+            android:name=".Splashscreen"
+            android:label="북평여자고등학교">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".meal" />
+        <activity android:name=".schoolschedule" />
+        <activity android:name=".noticee" />
+        <activity android:name=".ScheduleMain" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".clicked" />
+        <activity
+            android:name=".Pop"
+            android:theme="@style/AppTheme.Pop" />
+    </application>
+
+</manifest>

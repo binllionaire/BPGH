@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:textColor="#fff"
+        android:fontFamily="@font/font"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:text="자신의 반을 선택해주세요"/>
+  <ListView
+    android:id="@+id/listview"
+    android:layout_height="match_parent"
+      android:layout_weight="0.5"
+    android:layout_width="match_parent"
+    android:divider="@color/colorPrimaryDark"
+    android:dividerHeight="1.5dp"
+    android:choiceMode="singleChoice"
+
+    />
+    </LinearLayout>
