@@ -1,5 +1,5 @@
 # BPGH
-고등학생 때 만들었던 북평여자고등학교 앱
+## 고등학생 때 만들었던 북평여자고등학교 앱
 
 https://play.google.com/store/apps/details?id=com.BPGH.bpgh
 
