@@ -5,6 +5,9 @@ https://play.google.com/store/apps/details?id=com.BPGH.bpgh
 
 <img width="600" alt="스크린샷 2022-06-22 오후 5 22 24" src="https://user-images.githubusercontent.com/46593078/174980708-de6c27e2-0aac-4cfc-9f0c-168d082ce718.png">
 
+### 개발일지
+https://www.instagram.com/p/B3XTQLiBlzN79jyj8PvdCHbeSZNTxwt_D5W3LM0/
+
 ### 메인메뉴
 <img width="230" alt="스크린샷 2022-06-22 오후 5 22 44" src="https://user-images.githubusercontent.com/46593078/174980774-3e0b54d6-41ad-4b31-ad6c-c01cbb6d4b62.png">
 
